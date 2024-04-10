@@ -1,3 +1,0 @@
-# Fix syntax highlighting for devcontainer files
-*.php linguist-language=PHP
-
